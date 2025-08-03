@@ -30,26 +30,32 @@ Enumerate the main results of this project in a list and describe them.
 
 ## Methodologies <!--- do not change this line -->
 
-(UPDATE IN README.md)
+### Data Cleaning and SMOTE
+We first cleaned our dataset, removing all null and duplicated values. We also used StandardScaler to regularize the features. Our dataset was imbalanced, with 92.82% of the data being tumor-positive. We applied SMOTE to create a balanced dataset. We used two different models: Logistic Regression, and Support Vector Machines (SVMs). We used an 80-20 train-test split for both:
 
-*EXAMPLE:*
-*To accomplish this, we utilized the OpenAI API to interact with ChatGPT, and we designed a custom Python script to generate diverse prompts and collect corresponding responses. The data was then processed and analyzed using pandas, enabling us to detect patterns and biases in the AI model's outputs.*
-*Engineered a Python script to generate over 1,000 prompts and elicit their responses from ChatGPT, utilizing pandas to collect the data. When prompted for solutions to this specific relevant crisis, nearly 80% of ChatGPT's responses promoted a certain worldview.*
+### Logistic Regression
+*[Need to do]*
+
+### SVMs and k-fold Cross Validation
+We used 5-fold cross validation, and set C=10. This meant that any mistakes would be highly penalized, resulting in a narrower margin and decision boundary.
 
 
 ## Data Sources <!--- do not change this line -->
 
-Kaggle Dataset: [Link to Kaggle Dataset](https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/jakeshbohaju/brain-tumor))
+This is the dataset we used in this project: [Link to Kaggle Dataset](https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/jakeshbohaju/brain-tumor))
+
 
 ## Technologies Used <!--- do not change this line -->
 
 (UPDATE IN README.md)
-List the technologies, libraries, and frameworks used in your project.
+Below are the technologies, libraries, and frameworks used in our project:
 
-*EXAMPLE:*
-- *Python*
-- *pandas*
-- *OpenAI API*
+- Python
+- pandas
+- scikit-learn
+- Logistic Regression
+- Support Vector Machines (SVMs)
+- k-fold Cross Validation
 
 
 ## Authors <!--- do not change this line -->
