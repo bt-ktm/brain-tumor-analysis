@@ -1,6 +1,5 @@
 # Brain Tumor Classification
 
-(UPDATE IN README.md)
 Developed SVM and logistic regression models to classify MRI brain scans as tumor or non-tumor based on statistical and textural features, within AI4All's Ignite accelerator. We used data cleaning and analysis skills as well as various Python libraries to prepare our data and write code.
 
 
