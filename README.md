@@ -1,19 +1,12 @@
 # Brain Tumor Classification
 
 (UPDATE IN README.md)
-Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
-
-*EXAMPLE:*
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
+Developed SVM and logistic regression models to classify MRI brain scans as tumor or non-tumor based on statistical and textural features, within AI4All's Ignite accelerator. We used data cleaning and analysis skills as well as various Python libraries to prepare our data and write code.
 
 
 ## Problem Statement <!--- do not change this line -->
 
-(UPDATE IN README.md)
-Describe the motivation for this project, why it is relevant, and what its impacts are.
-
-*EXAMPLE:*
-*Given the substantial daily output of responses, the identification and mitigation of ChatGPT's biases become critical, safeguarding both the multitude of users and the far-reaching consequences they may influence.*
+Brain tumors can be one of the deadliest diseases, and early identification and treatment are critical to optimize outcomes. Not only is correct identification critical, but it is also highly difficult to the complex and diverse nature of brain tumors. By automating the process of identification, we can potentially speed up the process of diagnosis and increase the likelihood that the correct treatment will be administered, improving patient outcomes.
 
 ## Key Results <!--- do not change this line -->
 
@@ -62,4 +55,5 @@ Below are the technologies, libraries, and frameworks used in our project:
 
 *This project was completed in collaboration with:*
 - *Vaidehi Karve ([vkarve@ucsd.edu](mailto:vkarve@ucsd.edu), [Linkedin](https://www.linkedin.com/in/vaidehi-karve/))*
+- *Tanisha Deka ([tdekae@uw.edu](mailto:tdeka@uw.edu), [Linkedin](https://www.linkedin.com/in/tanisha-deka-998714264/))*
 - *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
