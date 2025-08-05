@@ -53,6 +53,6 @@ Below are the technologies, libraries, and frameworks used in our project:
 ## Authors <!--- do not change this line -->
 
 *This project was completed in collaboration with:*
-- **Vaidehi Karve** [vkarve@ucsd.edu](mailto:vkarve@ucsd.edu), [Linkedin](https://www.linkedin.com/in/vaidehi-karve/)
-- **Tanisha Deka** [tdekae@uw.edu](mailto:tdeka@uw.edu), [Linkedin](https://www.linkedin.com/in/tanisha-deka-998714264/)
-- **Binayek Tiwari** [brt32@case.edu](mailto:brt32@case.edu), [Linkedin](https://www.linkedin.com/in/binayek-tiwari-39a992242/)
+- *Vaidehi Karve* [vkarve@ucsd.edu](mailto:vkarve@ucsd.edu), [Linkedin](https://www.linkedin.com/in/vaidehi-karve/)
+- *Tanisha Deka* [tdekae@uw.edu](mailto:tdeka@uw.edu), [Linkedin](https://www.linkedin.com/in/tanisha-deka-998714264/)
+- *Binayek Tiwari* [brt32@case.edu](mailto:brt32@case.edu), [Linkedin](https://www.linkedin.com/in/binayek-tiwari-39a992242/)
