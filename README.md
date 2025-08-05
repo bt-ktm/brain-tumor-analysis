@@ -26,7 +26,7 @@ Enumerate the main results of this project in a list and describe them.
 We first cleaned our dataset, removing all null and duplicated values. We also used StandardScaler to regularize the features. Our dataset was imbalanced, with 92.82% of the data being tumor-positive. We applied SMOTE to create a balanced dataset. We used two different models: Logistic Regression, and Support Vector Machines (SVMs). We used an 80-20 train-test split for both:
 
 ### Logistic Regression
-*[Need to do]*
+We implemented Logistic Regression for binary classification to distinguish between benign and malignant tumors. The model was trained using an 80-20 split and evaluated on metrics such as accuracy, precision, recall, and the confusion matrix. Regularization was applied to prevent overfitting, and model optimization was done using gradient descent to minimize the logistic loss function.
 
 ### SVMs and k-fold Cross Validation
 We used 5-fold cross validation, and set C=10. This meant that any mistakes would be highly penalized, resulting in a narrower margin and decision boundary.
