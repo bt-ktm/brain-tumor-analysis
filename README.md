@@ -39,7 +39,6 @@ This is the dataset we used in this project: [Link to Kaggle Dataset](https://ww
 
 ## Technologies Used <!--- do not change this line -->
 
-(UPDATE IN README.md)
 Below are the technologies, libraries, and frameworks used in our project:
 
 - Python
